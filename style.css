@@ -1,0 +1,25 @@
+/* body{
+    background-color: red;
+} */
+
+#cv-form{
+    /* display:none; */
+}
+
+#printCVButton{
+    /* display: none; */
+}
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.background{
+    background-color: antiquewhite;
+}
